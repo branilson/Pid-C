@@ -56,6 +56,7 @@ Changelog
 ======== ========== ===================================================================================================
 Version  Date       Comment
 ======== ========== ===================================================================================================
+v1.2.0.1 2024/10/11 BL: Commented unnecessary warning from Pid.c. Move Pid.h to ./include.
 v1.2.0.0 2013/09/16 Removed unnecessary header file includes in Pid.c. Moved Pid.h to ./src/include/. Removed details section from title block comments in Pid.c and Pid.h. Changed the precompiler debug macro detection from a error to a warning.
 v1.1.3.0 2013/09/16 Removed Doxygen files (the ./doc folder).
 v1.1.2.1 2013/09/16 Fixed error in README Changelog table formatting.
